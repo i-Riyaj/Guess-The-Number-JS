@@ -1,0 +1,29 @@
+html, body {
+    background-color: blue;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.margin {
+    margin: 2rem;
+}
+
+.paddingBelow {
+    padding-bottom: 0.3125rem;
+}
+.color{
+    color: black;
+}
+
+.width{
+    width: 10rem;
+}
+.button {
+    padding: 0 0.3125rem;
+}
